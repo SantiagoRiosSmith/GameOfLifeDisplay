@@ -19,7 +19,7 @@ import javax.swing.JLabel;
 
 public class gameOfLife {
 	
-	// grid is the current grid displayed on the display each number representing a dead or alive cell 0 or 1
+    // grid is the current grid displayed on the display each number representing a dead or alive cell 0 or 1
     private static int[][] grid = {
     	    {1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1},
     	    {1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1},
